@@ -41,6 +41,7 @@
 //     console.log(set.weekdayAlarm);
 // }
 
+//activity
 const pet = {
     nameOfPet: "Sue",
     typeOfPet: "Cat",
